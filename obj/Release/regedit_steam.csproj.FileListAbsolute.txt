@@ -1,0 +1,11 @@
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\regedit_steam.csprojAssemblyReference.cache
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\regedit_steam.GUI.resources
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\regedit_steam.Properties.Resources.resources
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\regedit_steam.SettingsWIN.resources
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\regedit_steam.csproj.GenerateResource.cache
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\regedit_steam.csproj.CoreCompileInputs.cache
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\bin\Release\GameControl Launcher 2.2.1.exe.config
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\bin\Release\GameControl Launcher 2.2.1.exe
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\bin\Release\GameControl Launcher 2.2.1.pdb
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\GameControl Launcher 2.2.1.exe
+C:\Users\maxit\source\repos\regedit_steam\regedit_steam\obj\Release\GameControl Launcher 2.2.1.pdb
