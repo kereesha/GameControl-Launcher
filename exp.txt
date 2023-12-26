@@ -1,1 +1,2 @@
-i
+info 17 17
+http://ya.ru/
